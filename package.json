@@ -1,0 +1,19 @@
+{
+  "name": "newsletter-sign-up-with-success-message-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genildocs/newsletter-sign-up-with-success-message-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genildocs/newsletter-sign-up-with-success-message-main/issues"
+  },
+  "homepage": "https://github.com/Genildocs/newsletter-sign-up-with-success-message-main#readme"
+}
